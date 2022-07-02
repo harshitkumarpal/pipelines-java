@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/harpal0165/harpal/_apis/build/status/harshitkumarpal.pipelines-java?branchName=main)](https://dev.azure.com/harpal0165/harpal/_build/latest?definitionId=5&branchName=main)
 
 # Contributing
 
